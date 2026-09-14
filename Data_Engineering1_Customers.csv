@@ -1,0 +1,51 @@
+CUSTOMER_ID,CUSTOMER_NAME,EMAIL,PROVINCE,SIGNUP_DATE
+C001,Zanele Nkosi,zanele.nkosi1@example.com,Free State,9/8/2025
+C002,Naledi Dlamini,naledi.dlamini2@example.com,Western Cape,7/13/2026
+C003,Sipho Els,sipho.els3@example.com,Mpumalanga,2/2/2025
+C004,Thabo Van der Merwe,thabo.van.der.merwe4@example.com,Eastern Cape,8/27/2025
+C005,Michael Els,michael.els5@example.com,Gauteng,7/29/2026
+C006,David Fourie,david.fourie6@example.com,Northern Cape,3/6/2026
+C007,Naledi Naidoo,naledi.naidoo7@example.com,Free State,1/7/2025
+C008,Lerato Fourie,lerato.fourie8@example.com,Mpumalanga,12/15/2025
+C009,Kagiso Dlamini,kagiso.dlamini9@example.com,Eastern Cape,12/11/2025
+C010,Zanele Van der Merwe,zanele.van.der.merwe10@example.com,Mpumalanga,4/10/2025
+C011,Nomvula Coetzee,nomvula.coetzee11@example.com,Limpopo,9/28/2025
+C012,Aisha Fourie,aisha.fourie12@example.com,North West,7/4/2026
+C013,Zanele Mbeki,zanele.mbeki13@example.com,Mpumalanga,3/22/2025
+C014,Ayanda Mokoena,ayanda.mokoena14@example.com,Limpopo,8/15/2026
+C015,David Fourie,david.fourie15@example.com,Western Cape,2/16/2025
+C016,Naledi Ndlovu,naledi.ndlovu16@example.com,Free State,3/23/2025
+C017,Naledi Coetzee,naledi.coetzee17@example.com,Western Cape,1/25/2026
+C018,Kagiso Naidoo,kagiso.naidoo18@example.com,Limpopo,6/16/2025
+C019,Nomvula Pretorius,nomvula.pretorius19@example.com,Eastern Cape,10/1/2025
+C020,Sipho Els,sipho.els20@example.com,KwaZulu-Natal,7/1/2026
+C021,Naledi Dlamini,naledi.dlamini21@example.com,North West,1/24/2026
+C022,Kagiso Mbeki,kagiso.mbeki22@example.com,Northern Cape,8/13/2025
+C023,Pieter Coetzee,pieter.coetzee23@example.com,Gauteng,8/23/2025
+C024,Aisha Ndlovu,aisha.ndlovu24@example.com,Limpopo,2/15/2026
+C025,Kagiso Van der Merwe,kagiso.van.der.merwe25@example.com,Eastern Cape,8/4/2026
+C026,Pieter Botha,pieter.botha26@example.com,North West,2/10/2026
+C027,Chloe Dlamini,chloe.dlamini27@example.com,Free State,5/23/2025
+C028,Naledi Fourie,naledi.fourie28@example.com,Northern Cape,7/6/2026
+C029,Kagiso Fourie,kagiso.fourie29@example.com,Mpumalanga,8/21/2026
+C030,Sarah Pretorius,sarah.pretorius30@example.com,Eastern Cape,5/22/2025
+C031,Michael Naidoo,michael.naidoo31@example.com,Western Cape,2/18/2025
+C032,Zanele Dlamini,zanele.dlamini32@example.com,KwaZulu-Natal,3/9/2026
+C033,Sam Van der Merwe,sam.van.der.merwe33@example.com,Mpumalanga,1/26/2026
+C034,Sam Naidoo,sam.naidoo34@example.com,Northern Cape,9/15/2025
+C035,Ayanda Coetzee,ayanda.coetzee35@example.com,Gauteng,4/28/2025
+C036,Ayanda Ndlovu,ayanda.ndlovu36@example.com,Free State,12/15/2025
+C037,Zanele Mokoena,zanele.mokoena37@example.com,Mpumalanga,6/11/2025
+C038,Chloe Nkosi,chloe.nkosi38@example.com,Free State,5/28/2026
+C039,Lerato Khumalo,lerato.khumalo39@example.com,Western Cape,11/2/2025
+C040,Michael Els,michael.els40@example.com,Eastern Cape,6/6/2025
+C041,Nomvula Ndlovu,nomvula.ndlovu41@example.com,KwaZulu-Natal,7/7/2026
+C042,Michael Mbeki,michael.mbeki42@example.com,Gauteng,11/28/2025
+C043,Karabo Nkosi,karabo.nkosi43@example.com,Western Cape,1/7/2026
+C044,Fatima Botha,fatima.botha44@example.com,Gauteng,9/4/2025
+C045,Grace Van der Merwe,grace.van.der.merwe45@example.com,Western Cape,5/13/2026
+C046,Sipho Ndlovu,sipho.ndlovu46@example.com,Northern Cape,5/9/2025
+C047,Johan Mahlangu,johan.mahlangu47@example.com,North West,7/17/2026
+C048,Lerato Mokoena,lerato.mokoena48@example.com,Northern Cape,3/10/2026
+C049,David Mbeki,david.mbeki49@example.com,Northern Cape,7/25/2025
+C050,Fatima Sithole,fatima.sithole50@example.com,Limpopo,3/25/2026
